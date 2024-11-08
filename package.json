@@ -1,0 +1,15 @@
+{
+  "name": "sesionanuario-1",
+  "version": "1.0.0",
+  "description": "1. Creamos carpeta de proyecto\r 2. Creamos repo con el readme\r 3. npm init\r 4. instalar con npm install\r 5. gitignore (node_modules), npm install lite-server\r 6. creamos index.html\r 7. lanzar un servidor remoto con `npm run dev`, Ejemplo de creación de dev en apartado script en package.json:`\"dev\": \"lite-server\",`",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
